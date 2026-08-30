@@ -5,9 +5,10 @@
 -->
 ## Hey👋, I'm Raashid
 
-- 🎓 Kingston Grad. CompSci. 1st Class Honors.
+- 🎓 Kingston University Grad. CompSci. 1st Class Honors.
 - 🌱 Actively learning.
 - 🤝 I’m open to working with others on interesting projects.
+- 🏗️ Currently building: CropCare
 - 🥅 Goal: Build stronger projects. Become production-ready as a developer. 
 
 ### Reach Out! 
