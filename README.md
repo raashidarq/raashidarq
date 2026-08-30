@@ -8,7 +8,7 @@
 - 🎓 Kingston University Grad. CompSci. 1st Class Honors.
 - 🌱 Actively learning.
 - 🤝 I’m open to working with others on interesting projects.
-- 🏗️ Currently building: CropCare
+- 🏗️ Currently building: CropCare (and updating older projects)
 - 🥅 Goal: Build stronger projects. Become production-ready as a developer. 
 
 ### Reach Out! 
